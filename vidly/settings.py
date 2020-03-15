@@ -25,7 +25,9 @@ SECRET_KEY = 'nw9#wk%+cw&9c3u#o7_qati^z@@2j7%l5eraqmsf)+p03@9e27'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'morning-shore-50571.herokuapp.com',
+]
 
 
 # Application definition
