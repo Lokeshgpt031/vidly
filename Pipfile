@@ -21,6 +21,7 @@ gunicorn = "*"
 whitenose = "*"
 whitenoise = "*"
 django-heroku = "*"
+pylibmc = "==1.5.2"
 
 [requires]
 python_version = "3.8"
