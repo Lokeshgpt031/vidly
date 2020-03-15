@@ -20,6 +20,7 @@ git = "*"
 gunicorn = "*"
 whitenose = "*"
 whitenoise = "*"
+django-heroku = "*"
 
 [requires]
 python_version = "3.8"
